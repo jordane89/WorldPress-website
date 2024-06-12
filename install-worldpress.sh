@@ -73,3 +73,4 @@ sudo vi /var/www/html/wp-config.php
 
 # restart the webserver
 sudo service httpd restart
+sudo service httpd restart
